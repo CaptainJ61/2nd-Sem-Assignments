@@ -1,3 +1,9 @@
+/*
+ * James Difiglio
+ * Potion
+ * OOP Assignment 1
+ * Concrete Class # 2
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

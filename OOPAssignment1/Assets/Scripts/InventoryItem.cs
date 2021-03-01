@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * James Difiglio
+ * Inventory Item
+ * OOP Assignment 1
+ * Parent Class
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,3 +1,9 @@
+/*
+ * James Difiglio
+ * Healing Staff
+ * OOP Assignment 1
+ * Class to take both interfaces
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

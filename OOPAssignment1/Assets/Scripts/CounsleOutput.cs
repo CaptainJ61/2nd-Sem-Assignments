@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * James Difiglio
+ * Counsle Output
+ * OOP Assignment 1
+ * Polymorphic Lists and Counsle Output controller.
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
