@@ -1,3 +1,9 @@
+/*
+ * James Difiglio
+ * Potion
+ * OOP Assignment 2
+ * Client class
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

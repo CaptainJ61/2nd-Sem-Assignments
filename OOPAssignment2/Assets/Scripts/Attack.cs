@@ -1,3 +1,9 @@
+/*
+ * James Difiglio
+ * Attack
+ * OOP Assignment 2
+ * Behavior subclass
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

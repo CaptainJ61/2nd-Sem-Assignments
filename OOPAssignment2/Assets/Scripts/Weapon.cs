@@ -1,8 +1,8 @@
 /*
  * James Difiglio
  * Weapon
- * OOP Assignment 1
- * Concrete Class # 1
+ * OOP Assignment 2
+ * Client class
  */
 using System.Collections;
 using System.Collections.Generic;

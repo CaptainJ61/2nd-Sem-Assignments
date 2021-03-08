@@ -1,8 +1,8 @@
 ﻿/*
  * James Difiglio
- * Inventory Item
- * OOP Assignment 1
- * Parent Class
+ * InventoryItem
+ * OOP Assignment 2
+ * Parent Abstract Class
  */
 using System.Collections;
 using System.Collections.Generic;

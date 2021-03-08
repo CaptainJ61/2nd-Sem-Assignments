@@ -1,3 +1,9 @@
+/*
+ * James Difiglio
+ * CounsoleOutput
+ * OOP Assignment 2
+ * Basically gameManager
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
