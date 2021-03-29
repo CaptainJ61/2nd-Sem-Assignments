@@ -1,3 +1,9 @@
+/*
+ * James Difiglio
+ * Shield
+ * OOP Assignment 8
+ * Concrete class
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

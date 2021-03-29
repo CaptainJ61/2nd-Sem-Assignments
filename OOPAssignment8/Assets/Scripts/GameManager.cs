@@ -1,3 +1,9 @@
+/*
+ * James Difiglio
+ * GameManager
+ * OOP Assignment 8
+ * Game manager
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

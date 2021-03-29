@@ -1,3 +1,9 @@
+/*
+ * James Difiglio
+ * Crafter
+ * OOP Assignment 8
+ * Abstract class
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
